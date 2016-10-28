@@ -1,0 +1,7 @@
+slackbot==0.4.1
+requests==2.11.1
+PyGithub==1.29
+python-dotenv==0.6.0
+schedule==0.3.2
+redis==2.10.5
+dill==0.2.5
